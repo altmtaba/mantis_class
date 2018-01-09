@@ -10,7 +10,7 @@
     "clickAssignedToMe": {
       "type": "action",
       "selector": ".subtle",
-      "control": "action.link",
+      "control": "action.button",
       "selectContains": "Assigned to Me"
     }
   },
