@@ -32,7 +32,7 @@
       "update": {
         "type": "none"
       },
-      "selector": "#text",
+      "selector": "div",
       "selectIndex": 1,
       "control": "text"
     },
