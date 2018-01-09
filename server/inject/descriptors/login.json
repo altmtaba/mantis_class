@@ -54,11 +54,6 @@
       "selector": "body",
       "control": "exists",
       "selectContains": "Login"
-    },
-    "isLanding": {
-      "type": "identifier",
-      "selector": "body",
-      "control": "property.innerText"
     }
   },
   "connect": [
