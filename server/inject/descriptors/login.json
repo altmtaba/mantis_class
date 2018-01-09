@@ -13,7 +13,7 @@
       },
       "selectContains": "username",
       "selector": "[name=\"username\"]",
-      "control": "value"
+      "control": "action.button"
     },
     "password": {
       "type": "string",
