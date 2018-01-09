@@ -1,7 +1,7 @@
 {
-  "logincool": {
+  "login": {
     "type": "object",
-    "comment": "Login",
+    "comment": "login",
     "properties": {
       "username": {
         "type": "string",
