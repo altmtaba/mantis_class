@@ -50,11 +50,20 @@
       "control": "action.button"
     },
     "isLogin": {
-      "type": "string",
+      "type": "identifier",
       "selector": "button",
       "control": "exists",
       "selectContains": "login"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isLogin"
+      ],
+      "screens": [
+        "login"
+      ]
+    }
+  ]
 }
