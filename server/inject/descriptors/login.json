@@ -48,6 +48,12 @@
       },
       "selector": ".button",
       "control": "action.button"
+    },
+    "isLogin": {
+      "type": "string",
+      "selector": "button",
+      "control": "exists",
+      "selectContains": "login"
     }
   },
   "connect": []
