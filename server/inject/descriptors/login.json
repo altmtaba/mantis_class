@@ -33,7 +33,8 @@
         "type": "none"
       },
       "selector": "div",
-      "control": "property.innerHTML"
+      "control": "property.innerHTML",
+      "selectIndex": 1
     },
     "submit": {
       "type": "action",
