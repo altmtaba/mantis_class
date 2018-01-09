@@ -56,7 +56,7 @@
       "selectContains": "Login"
     },
     "isLanding": {
-      "type": "string",
+      "type": "identifier",
       "selector": "body",
       "control": "property.innerText"
     }
