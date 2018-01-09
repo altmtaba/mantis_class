@@ -13,7 +13,7 @@
       },
       "selectContains": "username",
       "selector": "[name=\"username\"]",
-      "control": "action.button"
+      "control": "property.innerText"
     },
     "password": {
       "type": "string",
