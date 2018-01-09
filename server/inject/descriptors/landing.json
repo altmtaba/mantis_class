@@ -2,9 +2,10 @@
   "type": "object",
   "properties": {
     "isLanding": {
-      "type": "string",
-      "selector": "body",
-      "control": "property.innerText"
+      "type": "identifier",
+      "selector": ".a",
+      "control": "exists",
+      "selectContains": "Assigned to Me"
     }
   },
   "connect": []
