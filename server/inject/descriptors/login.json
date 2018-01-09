@@ -10,7 +10,9 @@
         "action": [
           "submit"
         ]
-      }
+      },
+      "selectContains": "username",
+      "selector": "input"
     },
     "password": {
       "type": "string",
