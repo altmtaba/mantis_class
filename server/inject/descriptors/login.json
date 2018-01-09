@@ -51,7 +51,7 @@
     },
     "isLogin": {
       "type": "identifier",
-      "selector": "button",
+      "selector": ".button",
       "control": "exists",
       "selectContains": "login"
     }
