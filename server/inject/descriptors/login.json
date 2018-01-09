@@ -52,8 +52,7 @@
     "isLogin": {
       "type": "identifier",
       "selector": ".button",
-      "control": "exists",
-      "selectContains": "login"
+      "control": "exists"
     }
   },
   "connect": [
