@@ -51,9 +51,9 @@
     },
     "isLogin": {
       "type": "identifier",
-      "selector": ".button",
+      "selector": "body",
       "control": "exists",
-      "selectContains": "submit"
+      "selectContains": "Login"
     }
   },
   "connect": [
