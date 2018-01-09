@@ -31,7 +31,9 @@
       "label": "errorMessage",
       "update": {
         "type": "none"
-      }
+      },
+      "selector": "#text",
+      "selectIndex": 1
     },
     "submit": {
       "type": "action",
