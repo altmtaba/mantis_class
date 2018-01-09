@@ -12,7 +12,8 @@
         ]
       },
       "selectContains": "username",
-      "selector": "input"
+      "selector": "[name=\"username\"]",
+      "control": "text"
     },
     "password": {
       "type": "string",
